@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="sun_rise"> Impression Sunrise </string>
+    <string name="great_wave">The Great Wave of Kanagawa</string>
+    <string name="the_scream">The scream</string>
+    <string name="the_starry_night">The starry night</string>
+    <string name="sun_rise_author">Claude Monet</string>
+    <string name="great_wave_author">Katsushika Hokusai</string>
+    <string name="scream_author">Edvard Munch</string>
+    <string name="starry_night_author">Vincent Van Gogh</string>
+</resources>
